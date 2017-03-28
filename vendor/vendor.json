@@ -1,0 +1,85 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "b7O8+rj1UpgL+Pb0NRyPEIbB2zQ=",
+			"path": "github.com/eaburns/pretty",
+			"revision": "362524b7236949adbe11ce2c082d152a8a573984",
+			"revisionTime": "2017-03-05T20:24:17Z"
+		},
+		{
+			"checksumSHA1": "PprJvNnom5ElY0YZ3teOfe81eNw=",
+			"path": "github.com/golang/sync/errgroup",
+			"revision": "450f422ab23cf9881c94e2db30cac0eb1b7cf80c",
+			"revisionTime": "2016-12-05T22:39:15Z"
+		},
+		{
+			"checksumSHA1": "Wncr5M2TkihHxqhq1afy2aRtb0U=",
+			"path": "github.com/velour/chat",
+			"revision": "fc6a1d37a8e86b4cff07435dbb9f80a8cd35bbc8",
+			"revisionTime": "2017-02-10T21:00:20Z"
+		},
+		{
+			"checksumSHA1": "tJEj0VEROHPlmZ7GCSsCLudk2IU=",
+			"path": "github.com/velour/chat/bridge",
+			"revision": "fc6a1d37a8e86b4cff07435dbb9f80a8cd35bbc8",
+			"revisionTime": "2017-02-10T21:00:20Z"
+		},
+		{
+			"checksumSHA1": "eLg1tll/BLtV1262pSDtP1hjIOU=",
+			"path": "github.com/velour/chat/irc",
+			"revision": "fc6a1d37a8e86b4cff07435dbb9f80a8cd35bbc8",
+			"revisionTime": "2017-02-10T21:00:20Z"
+		},
+		{
+			"checksumSHA1": "xJ5trsYk7o1Ukpa2sXwKnjCSC4Q=",
+			"path": "github.com/velour/chat/slack",
+			"revision": "fc6a1d37a8e86b4cff07435dbb9f80a8cd35bbc8",
+			"revisionTime": "2017-02-10T21:00:20Z"
+		},
+		{
+			"checksumSHA1": "oIe6v947HAiINRy6NvqjbVIdLDs=",
+			"path": "github.com/velour/chat/telegram",
+			"revision": "fc6a1d37a8e86b4cff07435dbb9f80a8cd35bbc8",
+			"revisionTime": "2017-02-10T21:00:20Z"
+		},
+		{
+			"checksumSHA1": "zdekzNuFGSoxAZ8cURGsrhBObZs=",
+			"path": "golang.org/x/image/riff",
+			"revision": "d2f07f8aaaa906f1a64eee0e327fc681cdb2944f",
+			"revisionTime": "2016-11-18T00:16:02Z"
+		},
+		{
+			"checksumSHA1": "ebUbLKyTEaupuKj5KsceDfkn+UA=",
+			"path": "golang.org/x/image/vp8",
+			"revision": "d2f07f8aaaa906f1a64eee0e327fc681cdb2944f",
+			"revisionTime": "2016-11-18T00:16:02Z"
+		},
+		{
+			"checksumSHA1": "MF/A3WDD30iVwlktK0itZ0PTJho=",
+			"path": "golang.org/x/image/vp8l",
+			"revision": "d2f07f8aaaa906f1a64eee0e327fc681cdb2944f",
+			"revisionTime": "2016-11-18T00:16:02Z"
+		},
+		{
+			"checksumSHA1": "wwirbKM4d69iWA4s9JwpXTsda3A=",
+			"path": "golang.org/x/image/webp",
+			"revision": "d2f07f8aaaa906f1a64eee0e327fc681cdb2944f",
+			"revisionTime": "2016-11-18T00:16:02Z"
+		},
+		{
+			"checksumSHA1": "9jjO5GjLa0XF/nfWihF02RoH4qc=",
+			"path": "golang.org/x/net/context",
+			"revision": "ef00b378c73f107bf44d5c9b69875255ce89b79a",
+			"revisionTime": "2016-05-15T03:16:23Z"
+		},
+		{
+			"checksumSHA1": "fiFafSbOoQaM6Ad+zn7z/xAwLtE=",
+			"path": "golang.org/x/net/websocket",
+			"revision": "ef00b378c73f107bf44d5c9b69875255ce89b79a",
+			"revisionTime": "2016-05-15T03:16:23Z"
+		}
+	],
+	"rootPath": "github.com/eaburns/chat-bridge"
+}

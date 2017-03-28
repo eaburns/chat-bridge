@@ -1,0 +1,1 @@
+web: chat-bridge -telegram-token=$TELEGRAM_TOKEN -telegram-group=$TELEGRAM_GROUP -slack-token=$SLACK_TOKEN -slack-room=$SLACK_ROOM -http-public=$SERVER

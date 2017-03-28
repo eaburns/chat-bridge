@@ -1,0 +1,1 @@
+go build -race bridge/main.go && ./main -telegram-token=322090150:AAHCRxmCpTZd_B--RmUF3ow7AtlZ26yrP3o -telegram-group=-1001096014407 -slack-token=xoxb-122203263410-Rf8xq9AvTaaty8E5ZuOMdxTH -slack-room=general #-irc-nick=eaburns_test
